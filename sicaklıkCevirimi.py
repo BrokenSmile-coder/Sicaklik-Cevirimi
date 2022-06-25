@@ -33,7 +33,7 @@ while True:
                       "2-Hayır\n"
                       "Cevabınız : \n"))
     
-    if deger == int(deger)==1:
+    if int(deger) == 1:
         break
-    elif deger == int(deger)==2:
+    elif int(deger) == 2:
         continue
